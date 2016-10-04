@@ -1,0 +1,77 @@
+{
+    "name": "scummc",
+    "displayName": "ScummC",
+    "description": "Syntax highlighting and snippets for the ScummC",
+    "version": "0.0.0",
+    "publisher": "idleberg",
+    "license": "MIT",
+    "author": {
+        "name": "Jan T. Sott",
+        "url": "http://github.com/idleberg"
+    },
+    "keywords": [
+        "textile"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/idleberg/vscode-scummc.git"
+    },
+    "homepage": "https://github.com/idleberg/vscode-scummc",
+    "bugs": {
+        "url": "https://github.com/idleberg/vscode-scummc/issues"
+    },
+    "icon": "images/logo.svg",
+    "galleryBanner": {
+        "color": "#ffeab6"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Languages",
+        "Snippets"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "scummc",
+                "aliases": [
+                    "ScummC",
+                    "scummc"
+                ],
+                "extensions": [
+                    ".scc",
+                    ".sch"
+                ],
+                "configuration": "./scummc.configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "scummc",
+                "scopeName": "source.c.scumm",
+                "path": "./syntaxes/scummc.tmLanguage"
+            }
+        ],
+        "snippets": [
+            {
+                "language": "scummc",
+                "path": "./snippets/scummc.json"
+            }
+        ]
+    },
+    "scripts": {
+        "postinstall": "node ./node_modules/vscode/bin/install",
+        "test": "gulp lint"
+    },
+    "devDependencies": {
+        "babel-eslint": "^7.0.0",
+        "eslint": "^3.7.0",
+        "gulp": "^3.9.1",
+        "gulp-debug": "^2.1.2",
+        "gulp-eslint": "^3.0.1",
+        "gulp-json-lint": "^0.1.0",
+        "gulp-xml-validator": "^0.1.2",
+        "vscode": "^1.0.0"
+    }
+}

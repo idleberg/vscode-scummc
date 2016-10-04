@@ -1,0 +1,1670 @@
+{
+  "ClassAlwaysClip": {
+    "body": "ClassAlwaysClip$0",
+    "prefix": "ClassAlwaysClip"
+  },
+  "ClassIgnoreBoxes": {
+    "body": "ClassIgnoreBoxes$0",
+    "prefix": "ClassIgnoreBoxes"
+  },
+  "ClassNeverClip": {
+    "body": "ClassNeverClip$0",
+    "prefix": "ClassNeverClip"
+  },
+  "ClassPlayer": {
+    "body": "ClassPlayer$0",
+    "prefix": "ClassPlayer"
+  },
+  "ClassUntouchable": {
+    "body": "ClassUntouchable$0",
+    "prefix": "ClassUntouchable"
+  },
+  "ClassXFlip": {
+    "body": "ClassXFlip$0",
+    "prefix": "ClassXFlip"
+  },
+  "ClassYFlip": {
+    "body": "ClassYFlip$0",
+    "prefix": "ClassYFlip"
+  },
+  "IM_BEAT_INDEX": {
+    "body": "IM_BEAT_INDEX$0",
+    "prefix": "IM_BEAT_INDEX"
+  },
+  "IM_CLEAR_TRIGGER": {
+    "body": "IM_CLEAR_TRIGGER$0",
+    "prefix": "IM_CLEAR_TRIGGER"
+  },
+  "IM_DETUNE": {
+    "body": "IM_DETUNE$0",
+    "prefix": "IM_DETUNE"
+  },
+  "IM_FADE_SOUND": {
+    "body": "IM_FADE_SOUND$0",
+    "prefix": "IM_FADE_SOUND"
+  },
+  "IM_GET_MASTER_VOLUME": {
+    "body": "IM_GET_MASTER_VOLUME$0",
+    "prefix": "IM_GET_MASTER_VOLUME"
+  },
+  "IM_GET_SOUND_STATUS": {
+    "body": "IM_GET_SOUND_STATUS$0",
+    "prefix": "IM_GET_SOUND_STATUS"
+  },
+  "IM_HOOK_JUMP": {
+    "body": "IM_HOOK_JUMP$0",
+    "prefix": "IM_HOOK_JUMP"
+  },
+  "IM_HOOK_PART_ON_OFF": {
+    "body": "IM_HOOK_PART_ON_OFF$0",
+    "prefix": "IM_HOOK_PART_ON_OFF"
+  },
+  "IM_HOOK_PART_PROGRAM": {
+    "body": "IM_HOOK_PART_PROGRAM$0",
+    "prefix": "IM_HOOK_PART_PROGRAM"
+  },
+  "IM_HOOK_PART_TRANSPOSE": {
+    "body": "IM_HOOK_PART_TRANSPOSE$0",
+    "prefix": "IM_HOOK_PART_TRANSPOSE"
+  },
+  "IM_HOOK_PART_VOLUME": {
+    "body": "IM_HOOK_PART_VOLUME$0",
+    "prefix": "IM_HOOK_PART_VOLUME"
+  },
+  "IM_HOOK_TRANSPOSE": {
+    "body": "IM_HOOK_TRANSPOSE$0",
+    "prefix": "IM_HOOK_TRANSPOSE"
+  },
+  "IM_JUMP_HOOK": {
+    "body": "IM_JUMP_HOOK$0",
+    "prefix": "IM_JUMP_HOOK"
+  },
+  "IM_LIVE_MIDI_OFF": {
+    "body": "IM_LIVE_MIDI_OFF$0",
+    "prefix": "IM_LIVE_MIDI_OFF"
+  },
+  "IM_LIVE_MIDI_ON": {
+    "body": "IM_LIVE_MIDI_ON$0",
+    "prefix": "IM_LIVE_MIDI_ON"
+  },
+  "IM_LOOP_COUNTER": {
+    "body": "IM_LOOP_COUNTER$0",
+    "prefix": "IM_LOOP_COUNTER"
+  },
+  "IM_LOOP_FROM_BEAT": {
+    "body": "IM_LOOP_FROM_BEAT$0",
+    "prefix": "IM_LOOP_FROM_BEAT"
+  },
+  "IM_LOOP_FROM_TICK": {
+    "body": "IM_LOOP_FROM_TICK$0",
+    "prefix": "IM_LOOP_FROM_TICK"
+  },
+  "IM_LOOP_TO_BEAT": {
+    "body": "IM_LOOP_TO_BEAT$0",
+    "prefix": "IM_LOOP_TO_BEAT"
+  },
+  "IM_LOOP_TO_TICK": {
+    "body": "IM_LOOP_TO_TICK$0",
+    "prefix": "IM_LOOP_TO_TICK"
+  },
+  "IM_MAYBE_HOOK": {
+    "body": "IM_MAYBE_HOOK$0",
+    "prefix": "IM_MAYBE_HOOK"
+  },
+  "IM_PAN": {
+    "body": "IM_PAN$0",
+    "prefix": "IM_PAN"
+  },
+  "IM_PART_INSTRUMENT": {
+    "body": "IM_PART_INSTRUMENT$0",
+    "prefix": "IM_PART_INSTRUMENT"
+  },
+  "IM_PART_ON": {
+    "body": "IM_PART_ON$0",
+    "prefix": "IM_PART_ON"
+  },
+  "IM_PART_ON_OFF_HOOK": {
+    "body": "IM_PART_ON_OFF_HOOK$0",
+    "prefix": "IM_PART_ON_OFF_HOOK"
+  },
+  "IM_PART_PROGRAM_HOOK": {
+    "body": "IM_PART_PROGRAM_HOOK$0",
+    "prefix": "IM_PART_PROGRAM_HOOK"
+  },
+  "IM_PART_TRANSPOSE": {
+    "body": "IM_PART_TRANSPOSE$0",
+    "prefix": "IM_PART_TRANSPOSE"
+  },
+  "IM_PART_TRANSPOSE_HOOK": {
+    "body": "IM_PART_TRANSPOSE_HOOK$0",
+    "prefix": "IM_PART_TRANSPOSE_HOOK"
+  },
+  "IM_PART_VOL": {
+    "body": "IM_PART_VOL$0",
+    "prefix": "IM_PART_VOL"
+  },
+  "IM_PART_VOLUME_HOOK": {
+    "body": "IM_PART_VOLUME_HOOK$0",
+    "prefix": "IM_PART_VOLUME_HOOK"
+  },
+  "IM_PLAYER_CLEAR_LOOP": {
+    "body": "IM_PLAYER_CLEAR_LOOP$0",
+    "prefix": "IM_PLAYER_CLEAR_LOOP"
+  },
+  "IM_PLAYER_FADE": {
+    "body": "IM_PLAYER_FADE$0",
+    "prefix": "IM_PLAYER_FADE"
+  },
+  "IM_PLAYER_GET_PARAM": {
+    "body": "IM_PLAYER_GET_PARAM$0",
+    "prefix": "IM_PLAYER_GET_PARAM"
+  },
+  "IM_PLAYER_JUMP": {
+    "body": "IM_PLAYER_JUMP$0",
+    "prefix": "IM_PLAYER_JUMP"
+  },
+  "IM_PLAYER_SCAN": {
+    "body": "IM_PLAYER_SCAN$0",
+    "prefix": "IM_PLAYER_SCAN"
+  },
+  "IM_PLAYER_SET": {
+    "body": "IM_PLAYER_SET$0",
+    "prefix": "IM_PLAYER_SET"
+  },
+  "IM_PLAYER_SET_DETUNE": {
+    "body": "IM_PLAYER_SET_DETUNE$0",
+    "prefix": "IM_PLAYER_SET_DETUNE"
+  },
+  "IM_PLAYER_SET_HOOK": {
+    "body": "IM_PLAYER_SET_HOOK$0",
+    "prefix": "IM_PLAYER_SET_HOOK"
+  },
+  "IM_PLAYER_SET_LOOP": {
+    "body": "IM_PLAYER_SET_LOOP$0",
+    "prefix": "IM_PLAYER_SET_LOOP"
+  },
+  "IM_PLAYER_SET_ON_OFF": {
+    "body": "IM_PLAYER_SET_ON_OFF$0",
+    "prefix": "IM_PLAYER_SET_ON_OFF"
+  },
+  "IM_PLAYER_SET_PAN": {
+    "body": "IM_PLAYER_SET_PAN$0",
+    "prefix": "IM_PLAYER_SET_PAN"
+  },
+  "IM_PLAYER_SET_PRIORITY": {
+    "body": "IM_PLAYER_SET_PRIORITY$0",
+    "prefix": "IM_PLAYER_SET_PRIORITY"
+  },
+  "IM_PLAYER_SET_SPEED": {
+    "body": "IM_PLAYER_SET_SPEED$0",
+    "prefix": "IM_PLAYER_SET_SPEED"
+  },
+  "IM_PLAYER_SET_TRANSPOSE": {
+    "body": "IM_PLAYER_SET_TRANSPOSE$0",
+    "prefix": "IM_PLAYER_SET_TRANSPOSE"
+  },
+  "IM_PLAYER_SET_VOLUME": {
+    "body": "IM_PLAYER_SET_VOLUME$0",
+    "prefix": "IM_PLAYER_SET_VOLUME"
+  },
+  "IM_PRIORITY": {
+    "body": "IM_PRIORITY$0",
+    "prefix": "IM_PRIORITY"
+  },
+  "IM_QUERY_QUEUE": {
+    "body": "IM_QUERY_QUEUE$0",
+    "prefix": "IM_QUERY_QUEUE"
+  },
+  "IM_QUEUE_COMMAND": {
+    "body": "IM_QUEUE_COMMAND$0",
+    "prefix": "IM_QUEUE_COMMAND"
+  },
+  "IM_QUEUE_TRIGGER": {
+    "body": "IM_QUEUE_TRIGGER$0",
+    "prefix": "IM_QUEUE_TRIGGER"
+  },
+  "IM_SET_CHANNEL_VOLUME": {
+    "body": "IM_SET_CHANNEL_VOLUME$0",
+    "prefix": "IM_SET_CHANNEL_VOLUME"
+  },
+  "IM_SET_MASTER_VOLUME": {
+    "body": "IM_SET_MASTER_VOLUME$0",
+    "prefix": "IM_SET_MASTER_VOLUME"
+  },
+  "IM_SET_VOLCHAN": {
+    "body": "IM_SET_VOLCHAN$0",
+    "prefix": "IM_SET_VOLCHAN"
+  },
+  "IM_SET_VOLCHAN_ENTRY": {
+    "body": "IM_SET_VOLCHAN_ENTRY$0",
+    "prefix": "IM_SET_VOLCHAN_ENTRY"
+  },
+  "IM_SPEED": {
+    "body": "IM_SPEED$0",
+    "prefix": "IM_SPEED"
+  },
+  "IM_START_SOUND": {
+    "body": "IM_START_SOUND$0",
+    "prefix": "IM_START_SOUND"
+  },
+  "IM_STOP_ALL_SOUNDS": {
+    "body": "IM_STOP_ALL_SOUNDS$0",
+    "prefix": "IM_STOP_ALL_SOUNDS"
+  },
+  "IM_STOP_SOUND": {
+    "body": "IM_STOP_SOUND$0",
+    "prefix": "IM_STOP_SOUND"
+  },
+  "IM_TICK_INDEX": {
+    "body": "IM_TICK_INDEX$0",
+    "prefix": "IM_TICK_INDEX"
+  },
+  "IM_TRACK_INDEX": {
+    "body": "IM_TRACK_INDEX$0",
+    "prefix": "IM_TRACK_INDEX"
+  },
+  "IM_TRANSPOSE": {
+    "body": "IM_TRANSPOSE$0",
+    "prefix": "IM_TRANSPOSE"
+  },
+  "IM_TRANSPOSE_HOOK": {
+    "body": "IM_TRANSPOSE_HOOK$0",
+    "prefix": "IM_TRANSPOSE_HOOK"
+  },
+  "IM_VOLUME": {
+    "body": "IM_VOLUME$0",
+    "prefix": "IM_VOLUME"
+  },
+  "VAR_ACTOR_RANGE_MAX": {
+    "body": "VAR_ACTOR_RANGE_MAX$0",
+    "prefix": "VAR_ACTOR_RANGE_MAX"
+  },
+  "VAR_ACTOR_RANGE_MIN": {
+    "body": "VAR_ACTOR_RANGE_MIN$0",
+    "prefix": "VAR_ACTOR_RANGE_MIN"
+  },
+  "VAR_CAMERA_FAST_X": {
+    "body": "VAR_CAMERA_FAST_X$0",
+    "prefix": "VAR_CAMERA_FAST_X"
+  },
+  "VAR_CAMERA_MAX_X": {
+    "body": "VAR_CAMERA_MAX_X$0",
+    "prefix": "VAR_CAMERA_MAX_X"
+  },
+  "VAR_CAMERA_MIN_X": {
+    "body": "VAR_CAMERA_MIN_X$0",
+    "prefix": "VAR_CAMERA_MIN_X"
+  },
+  "VAR_CAMERA_POS_X": {
+    "body": "VAR_CAMERA_POS_X$0",
+    "prefix": "VAR_CAMERA_POS_X"
+  },
+  "VAR_CAMERA_SCRIPT": {
+    "body": "VAR_CAMERA_SCRIPT$0",
+    "prefix": "VAR_CAMERA_SCRIPT"
+  },
+  "VAR_CANCEL_BTN": {
+    "body": "VAR_CANCEL_BTN$0",
+    "prefix": "VAR_CANCEL_BTN"
+  },
+  "VAR_CHARINC": {
+    "body": "VAR_CHARINC$0",
+    "prefix": "VAR_CHARINC"
+  },
+  "VAR_CURRENTDRIVE": {
+    "body": "VAR_CURRENTDRIVE$0",
+    "prefix": "VAR_CURRENTDRIVE"
+  },
+  "VAR_CURSORSTATE": {
+    "body": "VAR_CURSORSTATE$0",
+    "prefix": "VAR_CURSORSTATE"
+  },
+  "VAR_CUTSCENEEXIT_KEY": {
+    "body": "VAR_CUTSCENEEXIT_KEY$0",
+    "prefix": "VAR_CUTSCENEEXIT_KEY"
+  },
+  "VAR_CUTSCENE_END_SCRIPT": {
+    "body": "VAR_CUTSCENE_END_SCRIPT$0",
+    "prefix": "VAR_CUTSCENE_END_SCRIPT"
+  },
+  "VAR_CUTSCENE_START_SCRIPT": {
+    "body": "VAR_CUTSCENE_START_SCRIPT$0",
+    "prefix": "VAR_CUTSCENE_START_SCRIPT"
+  },
+  "VAR_DEBUGMODE": {
+    "body": "VAR_DEBUGMODE$0",
+    "prefix": "VAR_DEBUGMODE"
+  },
+  "VAR_DEBUG_PASSWORD": {
+    "body": "VAR_DEBUG_PASSWORD$0",
+    "prefix": "VAR_DEBUG_PASSWORD"
+  },
+  "VAR_EGO": {
+    "body": "VAR_EGO$0",
+    "prefix": "VAR_EGO"
+  },
+  "VAR_ENTER_NAME_MSG": {
+    "body": "VAR_ENTER_NAME_MSG$0",
+    "prefix": "VAR_ENTER_NAME_MSG"
+  },
+  "VAR_FADE_DELAY": {
+    "body": "VAR_FADE_DELAY$0",
+    "prefix": "VAR_FADE_DELAY"
+  },
+  "VAR_FIXEDDISK": {
+    "body": "VAR_FIXEDDISK$0",
+    "prefix": "VAR_FIXEDDISK"
+  },
+  "VAR_GAME_DISK_MSG": {
+    "body": "VAR_GAME_DISK_MSG$0",
+    "prefix": "VAR_GAME_DISK_MSG"
+  },
+  "VAR_GAME_LOADED": {
+    "body": "VAR_GAME_LOADED$0",
+    "prefix": "VAR_GAME_LOADED"
+  },
+  "VAR_GAME_VERSION": {
+    "body": "VAR_GAME_VERSION$0",
+    "prefix": "VAR_GAME_VERSION"
+  },
+  "VAR_GUI_COLORS": {
+    "body": "VAR_GUI_COLORS$0",
+    "prefix": "VAR_GUI_COLORS"
+  },
+  "VAR_GUI_ENTRY_SCRIPT": {
+    "body": "VAR_GUI_ENTRY_SCRIPT$0",
+    "prefix": "VAR_GUI_ENTRY_SCRIPT"
+  },
+  "VAR_GUI_EXIT_SCRIPT": {
+    "body": "VAR_GUI_EXIT_SCRIPT$0",
+    "prefix": "VAR_GUI_EXIT_SCRIPT"
+  },
+  "VAR_HAVE_MSG": {
+    "body": "VAR_HAVE_MSG$0",
+    "prefix": "VAR_HAVE_MSG"
+  },
+  "VAR_HEAPSPACE": {
+    "body": "VAR_HEAPSPACE$0",
+    "prefix": "VAR_HEAPSPACE"
+  },
+  "VAR_INVENTORY_SCRIPT": {
+    "body": "VAR_INVENTORY_SCRIPT$0",
+    "prefix": "VAR_INVENTORY_SCRIPT"
+  },
+  "VAR_KEYPRESS": {
+    "body": "VAR_KEYPRESS$0",
+    "prefix": "VAR_KEYPRESS"
+  },
+  "VAR_LAST_SOUND": {
+    "body": "VAR_LAST_SOUND$0",
+    "prefix": "VAR_LAST_SOUND"
+  },
+  "VAR_LEFTBTN_HOLD": {
+    "body": "VAR_LEFTBTN_HOLD$0",
+    "prefix": "VAR_LEFTBTN_HOLD"
+  },
+  "VAR_LOAD_BTN": {
+    "body": "VAR_LOAD_BTN$0",
+    "prefix": "VAR_LOAD_BTN"
+  },
+  "VAR_LOAD_MENU_TITLE": {
+    "body": "VAR_LOAD_MENU_TITLE$0",
+    "prefix": "VAR_LOAD_MENU_TITLE"
+  },
+  "VAR_LOAD_MSG": {
+    "body": "VAR_LOAD_MSG$0",
+    "prefix": "VAR_LOAD_MSG"
+  },
+  "VAR_MACHINE_SPEED": {
+    "body": "VAR_MACHINE_SPEED$0",
+    "prefix": "VAR_MACHINE_SPEED"
+  },
+  "VAR_MAINMENU_KEY": {
+    "body": "VAR_MAINMENU_KEY$0",
+    "prefix": "VAR_MAINMENU_KEY"
+  },
+  "VAR_MAIN_MENU_TITLE": {
+    "body": "VAR_MAIN_MENU_TITLE$0",
+    "prefix": "VAR_MAIN_MENU_TITLE"
+  },
+  "VAR_ME": {
+    "body": "VAR_ME$0",
+    "prefix": "VAR_ME"
+  },
+  "VAR_MEMORY_PERFORMANCE": {
+    "body": "VAR_MEMORY_PERFORMANCE$0",
+    "prefix": "VAR_MEMORY_PERFORMANCE"
+  },
+  "VAR_MOUSEPRESENT": {
+    "body": "VAR_MOUSEPRESENT$0",
+    "prefix": "VAR_MOUSEPRESENT"
+  },
+  "VAR_MOUSE_X": {
+    "body": "VAR_MOUSE_X$0",
+    "prefix": "VAR_MOUSE_X"
+  },
+  "VAR_MOUSE_Y": {
+    "body": "VAR_MOUSE_Y$0",
+    "prefix": "VAR_MOUSE_Y"
+  },
+  "VAR_MUSIC_TIMER": {
+    "body": "VAR_MUSIC_TIMER$0",
+    "prefix": "VAR_MUSIC_TIMER"
+  },
+  "VAR_NEW_ROOM": {
+    "body": "VAR_NEW_ROOM$0",
+    "prefix": "VAR_NEW_ROOM"
+  },
+  "VAR_NOSUBTITLES": {
+    "body": "VAR_NOSUBTITLES$0",
+    "prefix": "VAR_NOSUBTITLES"
+  },
+  "VAR_NOT_LOADED_MSG": {
+    "body": "VAR_NOT_LOADED_MSG$0",
+    "prefix": "VAR_NOT_LOADED_MSG"
+  },
+  "VAR_NOT_SAVED_MSG": {
+    "body": "VAR_NOT_SAVED_MSG$0",
+    "prefix": "VAR_NOT_SAVED_MSG"
+  },
+  "VAR_NUM_ACTOR": {
+    "body": "VAR_NUM_ACTOR$0",
+    "prefix": "VAR_NUM_ACTOR"
+  },
+  "VAR_OK_BTN": {
+    "body": "VAR_OK_BTN$0",
+    "prefix": "VAR_OK_BTN"
+  },
+  "VAR_OPEN_FAILED_MSG": {
+    "body": "VAR_OPEN_FAILED_MSG$0",
+    "prefix": "VAR_OPEN_FAILED_MSG"
+  },
+  "VAR_OVERRIDE": {
+    "body": "VAR_OVERRIDE$0",
+    "prefix": "VAR_OVERRIDE"
+  },
+  "VAR_PAUSE_KEY": {
+    "body": "VAR_PAUSE_KEY$0",
+    "prefix": "VAR_PAUSE_KEY"
+  },
+  "VAR_PAUSE_MSG": {
+    "body": "VAR_PAUSE_MSG$0",
+    "prefix": "VAR_PAUSE_MSG"
+  },
+  "VAR_PLAY_BTN": {
+    "body": "VAR_PLAY_BTN$0",
+    "prefix": "VAR_PLAY_BTN"
+  },
+  "VAR_POST_ENTRY_SCRIPT": {
+    "body": "VAR_POST_ENTRY_SCRIPT$0",
+    "prefix": "VAR_POST_ENTRY_SCRIPT"
+  },
+  "VAR_POST_EXIT_SCRIPT": {
+    "body": "VAR_POST_EXIT_SCRIPT$0",
+    "prefix": "VAR_POST_EXIT_SCRIPT"
+  },
+  "VAR_PRE_ENTRY_SCRIPT": {
+    "body": "VAR_PRE_ENTRY_SCRIPT$0",
+    "prefix": "VAR_PRE_ENTRY_SCRIPT"
+  },
+  "VAR_PRE_EXIT_SCRIPT": {
+    "body": "VAR_PRE_EXIT_SCRIPT$0",
+    "prefix": "VAR_PRE_EXIT_SCRIPT"
+  },
+  "VAR_QUIT_BTN": {
+    "body": "VAR_QUIT_BTN$0",
+    "prefix": "VAR_QUIT_BTN"
+  },
+  "VAR_QUIT_MSG": {
+    "body": "VAR_QUIT_MSG$0",
+    "prefix": "VAR_QUIT_MSG"
+  },
+  "VAR_RANDOM_NR": {
+    "body": "VAR_RANDOM_NR$0",
+    "prefix": "VAR_RANDOM_NR"
+  },
+  "VAR_READ_ERROR_MSG": {
+    "body": "VAR_READ_ERROR_MSG$0",
+    "prefix": "VAR_READ_ERROR_MSG"
+  },
+  "VAR_RESTART_KEY": {
+    "body": "VAR_RESTART_KEY$0",
+    "prefix": "VAR_RESTART_KEY"
+  },
+  "VAR_RESTART_MSG": {
+    "body": "VAR_RESTART_MSG$0",
+    "prefix": "VAR_RESTART_MSG"
+  },
+  "VAR_RIGHTBTN_HOLD": {
+    "body": "VAR_RIGHTBTN_HOLD$0",
+    "prefix": "VAR_RIGHTBTN_HOLD"
+  },
+  "VAR_ROOM": {
+    "body": "VAR_ROOM$0",
+    "prefix": "VAR_ROOM"
+  },
+  "VAR_ROOM_FLAG": {
+    "body": "VAR_ROOM_FLAG$0",
+    "prefix": "VAR_ROOM_FLAG"
+  },
+  "VAR_ROOM_HEIGHT": {
+    "body": "VAR_ROOM_HEIGHT$0",
+    "prefix": "VAR_ROOM_HEIGHT"
+  },
+  "VAR_ROOM_RESOURCE": {
+    "body": "VAR_ROOM_RESOURCE$0",
+    "prefix": "VAR_ROOM_RESOURCE"
+  },
+  "VAR_ROOM_WIDTH": {
+    "body": "VAR_ROOM_WIDTH$0",
+    "prefix": "VAR_ROOM_WIDTH"
+  },
+  "VAR_SAVE_BTN": {
+    "body": "VAR_SAVE_BTN$0",
+    "prefix": "VAR_SAVE_BTN"
+  },
+  "VAR_SAVE_DISK_MSG": {
+    "body": "VAR_SAVE_DISK_MSG$0",
+    "prefix": "VAR_SAVE_DISK_MSG"
+  },
+  "VAR_SAVE_MENU_TITLE": {
+    "body": "VAR_SAVE_MENU_TITLE$0",
+    "prefix": "VAR_SAVE_MENU_TITLE"
+  },
+  "VAR_SAVE_MSG": {
+    "body": "VAR_SAVE_MSG$0",
+    "prefix": "VAR_SAVE_MSG"
+  },
+  "VAR_SENTENCE_SCRIPT": {
+    "body": "VAR_SENTENCE_SCRIPT$0",
+    "prefix": "VAR_SENTENCE_SCRIPT"
+  },
+  "VAR_SOUNDCARD": {
+    "body": "VAR_SOUNDCARD$0",
+    "prefix": "VAR_SOUNDCARD"
+  },
+  "VAR_SOUNDPARAM": {
+    "body": "VAR_SOUNDPARAM$0",
+    "prefix": "VAR_SOUNDPARAM"
+  },
+  "VAR_SOUNDPARAM2": {
+    "body": "VAR_SOUNDPARAM2$0",
+    "prefix": "VAR_SOUNDPARAM2"
+  },
+  "VAR_SOUNDPARAM3": {
+    "body": "VAR_SOUNDPARAM3$0",
+    "prefix": "VAR_SOUNDPARAM3"
+  },
+  "VAR_SOUNDRESULT": {
+    "body": "VAR_SOUNDRESULT$0",
+    "prefix": "VAR_SOUNDRESULT"
+  },
+  "VAR_TALKSTOP_KEY": {
+    "body": "VAR_TALKSTOP_KEY$0",
+    "prefix": "VAR_TALKSTOP_KEY"
+  },
+  "VAR_TALK_ACTOR": {
+    "body": "VAR_TALK_ACTOR$0",
+    "prefix": "VAR_TALK_ACTOR"
+  },
+  "VAR_TIMEDATE_DAY": {
+    "body": "VAR_TIMEDATE_DAY$0",
+    "prefix": "VAR_TIMEDATE_DAY"
+  },
+  "VAR_TIMEDATE_HOUR": {
+    "body": "VAR_TIMEDATE_HOUR$0",
+    "prefix": "VAR_TIMEDATE_HOUR"
+  },
+  "VAR_TIMEDATE_MINUTE": {
+    "body": "VAR_TIMEDATE_MINUTE$0",
+    "prefix": "VAR_TIMEDATE_MINUTE"
+  },
+  "VAR_TIMEDATE_MONTH": {
+    "body": "VAR_TIMEDATE_MONTH$0",
+    "prefix": "VAR_TIMEDATE_MONTH"
+  },
+  "VAR_TIMEDATE_YEAR": {
+    "body": "VAR_TIMEDATE_YEAR$0",
+    "prefix": "VAR_TIMEDATE_YEAR"
+  },
+  "VAR_TIMER": {
+    "body": "VAR_TIMER$0",
+    "prefix": "VAR_TIMER"
+  },
+  "VAR_TIMER_NEXT": {
+    "body": "VAR_TIMER_NEXT$0",
+    "prefix": "VAR_TIMER_NEXT"
+  },
+  "VAR_TMR_1": {
+    "body": "VAR_TMR_1$0",
+    "prefix": "VAR_TMR_1"
+  },
+  "VAR_TMR_2": {
+    "body": "VAR_TMR_2$0",
+    "prefix": "VAR_TMR_2"
+  },
+  "VAR_TMR_3": {
+    "body": "VAR_TMR_3$0",
+    "prefix": "VAR_TMR_3"
+  },
+  "VAR_TMR_4": {
+    "body": "VAR_TMR_4$0",
+    "prefix": "VAR_TMR_4"
+  },
+  "VAR_USERPUT": {
+    "body": "VAR_USERPUT$0",
+    "prefix": "VAR_USERPUT"
+  },
+  "VAR_V6_EMSSPACE": {
+    "body": "VAR_V6_EMSSPACE$0",
+    "prefix": "VAR_V6_EMSSPACE"
+  },
+  "VAR_V6_SOUNDMODE": {
+    "body": "VAR_V6_SOUNDMODE$0",
+    "prefix": "VAR_V6_SOUNDMODE"
+  },
+  "VAR_VERB_SCRIPT": {
+    "body": "VAR_VERB_SCRIPT$0",
+    "prefix": "VAR_VERB_SCRIPT"
+  },
+  "VAR_VIDEOMODE": {
+    "body": "VAR_VIDEOMODE$0",
+    "prefix": "VAR_VIDEOMODE"
+  },
+  "VAR_VIDEO_PERFORMANCE": {
+    "body": "VAR_VIDEO_PERFORMANCE$0",
+    "prefix": "VAR_VIDEO_PERFORMANCE"
+  },
+  "VAR_VIRT_MOUSE_X": {
+    "body": "VAR_VIRT_MOUSE_X$0",
+    "prefix": "VAR_VIRT_MOUSE_X"
+  },
+  "VAR_VIRT_MOUSE_Y": {
+    "body": "VAR_VIRT_MOUSE_Y$0",
+    "prefix": "VAR_VIRT_MOUSE_Y"
+  },
+  "VAR_WALKTO_OBJ": {
+    "body": "VAR_WALKTO_OBJ$0",
+    "prefix": "VAR_WALKTO_OBJ"
+  },
+  "abs()": {
+    "body": "abs( ${1:val} )$0",
+    "prefix": "abs()"
+  },
+  "actorFace()": {
+    "body": "actorFace( ${1:actor}, ${2:obj} )$0",
+    "prefix": "actorFace()"
+  },
+  "actorFreeze()": {
+    "body": "actorFreeze()$0",
+    "prefix": "actorFreeze()"
+  },
+  "actorNeverZClip()": {
+    "body": "actorNeverZClip()$0",
+    "prefix": "actorNeverZClip()"
+  },
+  "actorSay()": {
+    "body": "actorSay( ${1:actor}, ${2:string} )$0",
+    "prefix": "actorSay()"
+  },
+  "actorTurnToDirection()": {
+    "body": "actorTurnToDirection( ${1:dir} )$0",
+    "prefix": "actorTurnToDirection()"
+  },
+  "actorUnfreeze()": {
+    "body": "actorUnfreeze()$0",
+    "prefix": "actorUnfreeze()"
+  },
+  "anim": {
+    "body": "anim ${1:name} {\n    ${2:// your code here}\n}$3",
+    "prefix": "anim"
+  },
+  "animateActor()": {
+    "body": "animateActor( ${1:actor}, ${2:anim} )$0",
+    "prefix": "animateActor()"
+  },
+  "breakScript()": {
+    "body": "breakScript()$0",
+    "prefix": "breakScript()"
+  },
+  "breakXTimes()": {
+    "body": "breakXTimes( ${1:X} )$0",
+    "prefix": "breakXTimes()"
+  },
+  "cameraFollowActor()": {
+    "body": "cameraFollowActor( ${1:actor} )$0",
+    "prefix": "cameraFollowActor()"
+  },
+  "clearCharsetMask()": {
+    "body": "clearCharsetMask()$0",
+    "prefix": "clearCharsetMask()"
+  },
+  "copyColor()": {
+    "body": "copyColor( ${1:src}, ${2:dst} )$0",
+    "prefix": "copyColor()"
+  },
+  "createBoxMatrix()": {
+    "body": "createBoxMatrix()$0",
+    "prefix": "createBoxMatrix()"
+  },
+  "cursorOff()": {
+    "body": "cursorOff()$0",
+    "prefix": "cursorOff()"
+  },
+  "cursorOn()": {
+    "body": "cursorOn()$0",
+    "prefix": "cursorOn()"
+  },
+  "cutscene": {
+    "body": "cutscene ( ${1:/* args */} ) {\n    ${2:// your code here}\n}$3",
+    "prefix": "cutscene"
+  },
+  "delay()": {
+    "body": "delay( ${1:ticks} )$0",
+    "prefix": "delay()"
+  },
+  "delayMinutes()": {
+    "body": "delayMinutes( ${1:min} )$0",
+    "prefix": "delayMinutes()"
+  },
+  "delaySeconds()": {
+    "body": "delaySeconds( ${1:sec} )$0",
+    "prefix": "delaySeconds()"
+  },
+  "deleteVerbs()": {
+    "body": "deleteVerbs( ${1:fromVerb}, ${2:toVerb}, ${3:slot} )$0",
+    "prefix": "deleteVerbs()"
+  },
+  "doSentence()": {
+    "body": "doSentence( ${1:verb}, ${2:objA}, ${3:dummy}, ${4:objB})$0",
+    "prefix": "doSentence()"
+  },
+  "drawBox()": {
+    "body": "drawBox( ${1:x1}, ${2:y1}, ${3:x2}, ${4:y2}, ${5:color} )$0",
+    "prefix": "drawBox()"
+  },
+  "drawObject()": {
+    "body": "drawObject( ${1:obj}, ${2:state} )$0",
+    "prefix": "drawObject()"
+  },
+  "drawObjectAt()": {
+    "body": "drawObjectAt( ${1:obj}, ${2:x}, ${3:y} )$0",
+    "prefix": "drawObjectAt()"
+  },
+  "egoSay()": {
+    "body": "egoSay( ${1:string} )$0",
+    "prefix": "egoSay()"
+  },
+  "enqueueObject()": {
+    "body": "enqueueObject( ${1:obj}, ${2:x}, ${3:y}, ${4:w}, ${5:h}, ${6:scaleX}, ${7:scaleY}, ${8:image} )$0",
+    "prefix": "enqueueObject()"
+  },
+  "fadeIn()": {
+    "body": "fadeIn( ${1:effect} )$0",
+    "prefix": "fadeIn()"
+  },
+  "fadeOut()": {
+    "body": "fadeOut( ${1:effect} )$0",
+    "prefix": "fadeOut()"
+  },
+  "findInventory()": {
+    "body": "findInventory( ${1:owner}, ${2:idx} )$0",
+    "prefix": "findInventory()"
+  },
+  "freezeUnfreeze()": {
+    "body": "freezeUnfreeze( a )$0",
+    "prefix": "freezeUnfreeze()"
+  },
+  "getActorAnimCounter1()": {
+    "body": "getActorAnimCounter1( ${1:actor} )$0",
+    "prefix": "getActorAnimCounter1()"
+  },
+  "getActorAnimVar()": {
+    "body": "getActorAnimVar( ${1:actor}, ${2:var} )$0",
+    "prefix": "getActorAnimVar()"
+  },
+  "getActorAt()": {
+    "body": "getActorAt( ${1:x}, ${2:y} )$0",
+    "prefix": "getActorAt()"
+  },
+  "getActorCostume()": {
+    "body": "getActorCostume( ${1:actor} )$0",
+    "prefix": "getActorCostume()"
+  },
+  "getActorElevation()": {
+    "body": "getActorElevation( ${1:actor} )$0",
+    "prefix": "getActorElevation()"
+  },
+  "getActorFrame()": {
+    "body": "getActorFrame( ${1:actor} )$0",
+    "prefix": "getActorFrame()"
+  },
+  "getActorLayer()": {
+    "body": "getActorLayer( ${1:actor} )$0",
+    "prefix": "getActorLayer()"
+  },
+  "getActorRoom()": {
+    "body": "getActorRoom( ${1:actor} )$0",
+    "prefix": "getActorRoom()"
+  },
+  "getActorWalkBox()": {
+    "body": "getActorWalkBox( ${1:actor} )$0",
+    "prefix": "getActorWalkBox()"
+  },
+  "getActorWidth()": {
+    "body": "getActorWidth( ${1:actor} )$0",
+    "prefix": "getActorWidth()"
+  },
+  "getActorXScale()": {
+    "body": "getActorXScale( ${1:actor} )$0",
+    "prefix": "getActorXScale()"
+  },
+  "getBoxFlags()": {
+    "body": "getBoxFlags( ${1:box} )$0",
+    "prefix": "getBoxFlags()"
+  },
+  "getColor()": {
+    "body": "getColor( ${1:r}, ${2:g}, ${3:b} )$0",
+    "prefix": "getColor()"
+  },
+  "getDateTime()": {
+    "body": "getDateTime()$0",
+    "prefix": "getDateTime()"
+  },
+  "getDistObjObj()": {
+    "body": "getDistObjObj( ${1:objA}, ${2:objB} )$0",
+    "prefix": "getDistObjObj()"
+  },
+  "getDistObjPt()": {
+    "body": "getDistObjPt( ${1:obj}, ${2:x}, ${3:y} )$0",
+    "prefix": "getDistObjPt()"
+  },
+  "getDistPtPt()": {
+    "body": "getDistPtPt( ${1:x1}, ${2:y1}, ${3:x2}, ${4:y2} )$0",
+    "prefix": "getDistPtPt()"
+  },
+  "getInventoryCount()": {
+    "body": "getInventoryCount( ${1:owner} )$0",
+    "prefix": "getInventoryCount()"
+  },
+  "getKeyState()": {
+    "body": "getKeyState( ${1:key} )$0",
+    "prefix": "getKeyState()"
+  },
+  "getObjectAt()": {
+    "body": "getObjectAt( ${1:x}, ${2:y} )$0",
+    "prefix": "getObjectAt()"
+  },
+  "getObjectDir()": {
+    "body": "getObjectDir( ${1:obj} )$0",
+    "prefix": "getObjectDir()"
+  },
+  "getObjectNewDir()": {
+    "body": "getObjectNewDir( ${1:obj} )$0",
+    "prefix": "getObjectNewDir()"
+  },
+  "getObjectOwner()": {
+    "body": "getObjectOwner( ${1:obj} )$0",
+    "prefix": "getObjectOwner()"
+  },
+  "getObjectState()": {
+    "body": "getObjectState( ${1:obj} )$0",
+    "prefix": "getObjectState()"
+  },
+  "getObjectVerbEntrypoint()": {
+    "body": "getObjectVerbEntrypoint( ${1:obj}, ${2:verb} )$0",
+    "prefix": "getObjectVerbEntrypoint()"
+  },
+  "getObjectX()": {
+    "body": "getObjectX( ${1:obj} )$0",
+    "prefix": "getObjectX()"
+  },
+  "getObjectY()": {
+    "body": "getObjectY( ${1:obj} )$0",
+    "prefix": "getObjectY()"
+  },
+  "getPixel()": {
+    "body": "getPixel( ${1:x}, ${2:y} )$0",
+    "prefix": "getPixel()"
+  },
+  "getRandomNumber()": {
+    "body": "getRandomNumber( ${1:max} )$0",
+    "prefix": "getRandomNumber()"
+  },
+  "getRandomNumberRange()": {
+    "body": "getRandomNumberRange( ${1:min}, ${2:max} )$0",
+    "prefix": "getRandomNumberRange()"
+  },
+  "getRoomObjectHeight()": {
+    "body": "getRoomObjectHeight( ${1:obj} )$0",
+    "prefix": "getRoomObjectHeight()"
+  },
+  "getRoomObjectWidth()": {
+    "body": "getRoomObjectWidth( ${1:obj} )$0",
+    "prefix": "getRoomObjectWidth()"
+  },
+  "getRoomObjectX()": {
+    "body": "getRoomObjectX( ${1:obj} )$0",
+    "prefix": "getRoomObjectX()"
+  },
+  "getRoomObjectY()": {
+    "body": "getRoomObjectY( ${1:obj} )$0",
+    "prefix": "getRoomObjectY()"
+  },
+  "getRoomObjects()": {
+    "body": "getRoomObjects( ${1:room} )$0",
+    "prefix": "getRoomObjects()"
+  },
+  "getSpecialBox()": {
+    "body": "getSpecialBox( ${1:x}, ${2:y} )$0",
+    "prefix": "getSpecialBox()"
+  },
+  "getVerbAt()": {
+    "body": "getVerbAt( ${1:x}, ${2:y} )$0",
+    "prefix": "getVerbAt()"
+  },
+  "getVerbX()": {
+    "body": "getVerbX( ${1:verb} )$0",
+    "prefix": "getVerbX()"
+  },
+  "getVerbY()": {
+    "body": "getVerbY( ${1:verb} )$0",
+    "prefix": "getVerbY()"
+  },
+  "grabCursor( x, y, w, h )": {
+    "body": "grabCursor( ${1:x}, ${2:y}, ${3:w}, ${4:h} )$0",
+    "prefix": "grabCursor( x, y, w, h )"
+  },
+  "include scummVars6": {
+    "body": "#include <scummVars6.s>$0",
+    "prefix": "include scummVars6"
+  },
+  "include scummVars7": {
+    "body": "#include <scummVars7.s>$0",
+    "prefix": "include scummVars7"
+  },
+  "initActor()": {
+    "body": "initActor()$0",
+    "prefix": "initActor()"
+  },
+  "initActorQuick()": {
+    "body": "initActorQuick()$0",
+    "prefix": "initActorQuick()"
+  },
+  "initCharset( chset )": {
+    "body": "initCharset( ${1:chset} )$0",
+    "prefix": "initCharset( chset )"
+  },
+  "initVerb()": {
+    "body": "initVerb()$0",
+    "prefix": "initVerb()"
+  },
+  "isActorInBox()": {
+    "body": "isActorInBox( ${1:actor}, ${2:box} )$0",
+    "prefix": "isActorInBox()"
+  },
+  "isActorMoving()": {
+    "body": "isActorMoving( ${1:actor} )$0",
+    "prefix": "isActorMoving()"
+  },
+  "isAnyOf()": {
+    "body": "isAnyOf( ${1:val}, ${2:[ ${3:list} ]} )$0",
+    "prefix": "isAnyOf()"
+  },
+  "isInBox()": {
+    "body": "isInBox( ${1:x}, ${2:y}, ${3:box} )$0",
+    "prefix": "isInBox()"
+  },
+  "isObjectOfClass()": {
+    "body": "isObjectOfClass( ${1:obj}, ${2:[ 3{:classes} ]} )$0",
+    "prefix": "isObjectOfClass()"
+  },
+  "isRoomScriptRunning()": {
+    "body": "isRoomScriptRunning( ${1:obj} )$0",
+    "prefix": "isRoomScriptRunning()"
+  },
+  "isScriptRunning()": {
+    "body": "isScriptRunning( ${1:script} )$0",
+    "prefix": "isScriptRunning()"
+  },
+  "isSoundRunning()": {
+    "body": "isSoundRunning( ${1:sound} )$0",
+    "prefix": "isSoundRunning()"
+  },
+  "jumpToScript()": {
+    "body": "jumpToScript( ${1:flags}, ${2:script}, ${3:[ ${4:args} ]} )$0",
+    "prefix": "jumpToScript()"
+  },
+  "killAllScriptsExceptCurrent()": {
+    "body": "killAllScriptsExceptCurrent()$0",
+    "prefix": "killAllScriptsExceptCurrent()"
+  },
+  "killVerb()": {
+    "body": "killVerb()$0",
+    "prefix": "killVerb()"
+  },
+  "limb": {
+    "body": "limb ${1:name} {\n    ${2:// picture_list}\n}$3",
+    "prefix": "limb"
+  },
+  "loadCharset()": {
+    "body": "loadCharset( ${1:chset})$0",
+    "prefix": "loadCharset()"
+  },
+  "loadCostume()": {
+    "body": "loadCostume( ${1:cost} )$0",
+    "prefix": "loadCostume()"
+  },
+  "loadFlObject()": {
+    "body": "loadFlObject( ${1:obj}, ${2:room} )$0",
+    "prefix": "loadFlObject()"
+  },
+  "loadRoom()": {
+    "body": "loadRoom( ${1:room} )$0",
+    "prefix": "loadRoom()"
+  },
+  "loadScript()": {
+    "body": "loadScript( ${1:script} )$0",
+    "prefix": "loadScript()"
+  },
+  "loadSound()": {
+    "body": "loadSound( ${1:sound} )$0",
+    "prefix": "loadSound()"
+  },
+  "lockCostume()": {
+    "body": "lockCostume( ${1:cost} )$0",
+    "prefix": "lockCostume()"
+  },
+  "lockRoom()": {
+    "body": "lockRoom( ${1:room} )$0",
+    "prefix": "lockRoom()"
+  },
+  "lockScript()": {
+    "body": "lockScript( ${1:script} )$0",
+    "prefix": "lockScript()"
+  },
+  "lockSound()": {
+    "body": "lockSound( ${1:sound} )$0",
+    "prefix": "lockSound()"
+  },
+  "move": {
+    "body": "move = { ${1:x}, ${2:y} }$3",
+    "prefix": "move"
+  },
+  "nukeCharset()": {
+    "body": "nukeCharset( ${1:chset} )$0",
+    "prefix": "nukeCharset()"
+  },
+  "nukeCostume()": {
+    "body": "nukeCostume( ${1:cost} )$0",
+    "prefix": "nukeCostume()"
+  },
+  "nukeFlObjects()": {
+    "body": "nukeFlObjects( ${1:unk}, ${2:first}, ${3:last} )$0",
+    "prefix": "nukeFlObjects()"
+  },
+  "nukeRoom()": {
+    "body": "nukeRoom( ${1:room} )$0",
+    "prefix": "nukeRoom()"
+  },
+  "nukeScript()": {
+    "body": "nukeScript( ${1:script} )$0",
+    "prefix": "nukeScript()"
+  },
+  "nukeSound()": {
+    "body": "nukeSound( ${1:sound} )$0",
+    "prefix": "nukeSound()"
+  },
+  "object": {
+    "body": "object ${1:name} {\n    ${2:// object_properties}\n}$3",
+    "prefix": "object"
+  },
+  "palette": {
+    "body": "palette ( ${1:INTLIST} );$2",
+    "prefix": "palette"
+  },
+  "panCameraTo()": {
+    "body": "panCameraTo( ${1:x} )$0",
+    "prefix": "panCameraTo()"
+  },
+  "pauseGame()": {
+    "body": "pauseGame()$0",
+    "prefix": "pauseGame()"
+  },
+  "pickOneOf()": {
+    "body": "pickOneOf( ${1:idx}, ${2:[ ${3:list} ]} )$0",
+    "prefix": "pickOneOf()"
+  },
+  "pickOneOfDefault()": {
+    "body": "pickOneOfDefault( ${1:idx}, ${2:[ ${3:list} ]}, ${4:default} )$0",
+    "prefix": "pickOneOfDefault()"
+  },
+  "pickupObject()": {
+    "body": "pickupObject( ${1:obj}, ${2:room} )$0",
+    "prefix": "pickupObject()"
+  },
+  "picture": {
+    "body": "picture ${1:name} {\n    ${2:// picture_params}\n}$3",
+    "prefix": "picture"
+  },
+  "position": {
+    "body": "position = { ${1:x}, ${2:y} }$3",
+    "prefix": "position"
+  },
+  "print()": {
+    "body": "print( ${1:string} )$0",
+    "prefix": "print()"
+  },
+  "printAt()": {
+    "body": "printAt( ${1:x}, ${2:y} )$0",
+    "prefix": "printAt()"
+  },
+  "printBegin()": {
+    "body": "printBegin()$0",
+    "prefix": "printBegin()"
+  },
+  "printCenter()": {
+    "body": "printCenter()$0",
+    "prefix": "printCenter()"
+  },
+  "printClipped()": {
+    "body": "printClipped( ${1:right} )$0",
+    "prefix": "printClipped()"
+  },
+  "printColor()": {
+    "body": "printColor( ${1:color} )$0",
+    "prefix": "printColor()"
+  },
+  "printEnd()": {
+    "body": "printEnd()$0",
+    "prefix": "printEnd()"
+  },
+  "printLeft()": {
+    "body": "printLeft()$0",
+    "prefix": "printLeft()"
+  },
+  "printMumble()": {
+    "body": "printMumble()$0",
+    "prefix": "printMumble()"
+  },
+  "printOverhead()": {
+    "body": "printOverhead()$0",
+    "prefix": "printOverhead()"
+  },
+  "putActorAt()": {
+    "body": "putActorAt( ${1:actor}, ${2:x}, ${3:y}, ${4:room} )$0",
+    "prefix": "putActorAt()"
+  },
+  "putActorAtObject()": {
+    "body": "putActorAtObject( ${1:actor}, ${2:obj}, ${3:room} )$0",
+    "prefix": "putActorAtObject()"
+  },
+  "redrawVerb()": {
+    "body": "redrawVerb()$0",
+    "prefix": "redrawVerb()"
+  },
+  "restartGame()": {
+    "body": "restartGame()$0",
+    "prefix": "restartGame()"
+  },
+  "restoreVerbs()": {
+    "body": "restoreVerbs( ${1:fromVerb}, ${2:toVerb}, ${3:slot})$0",
+    "prefix": "restoreVerbs()"
+  },
+  "room": {
+    "body": "room ${1:name} {\n    ${2:// room_declarations}\n}$3",
+    "prefix": "room"
+  },
+  "roomPalManipulate()": {
+    "body": "roomPalManipulate( ${1:resID}, ${2:start}, ${3:end}, ${4:time} )$0",
+    "prefix": "roomPalManipulate()"
+  },
+  "saveLoadThing()": {
+    "body": "saveLoadThing( ${1:a}, ${2:b} )$0",
+    "prefix": "saveLoadThing()"
+  },
+  "saveSound()": {
+    "body": "saveSound( ${1:sound} )$0",
+    "prefix": "saveSound()"
+  },
+  "saveVerbs()": {
+    "body": "saveVerbs( ${1:fromVerb}, ${2:toVerb}, ${3:slot} )$0",
+    "prefix": "saveVerbs()"
+  },
+  "screenEffect()": {
+    "body": "screenEffect( ${1:effect} )$0",
+    "prefix": "screenEffect()"
+  },
+  "script": {
+    "body": "${1:local|global} script ${2:name}( ${4:/* args */} ) {\n    ${5:// your code here}\n}$6",
+    "prefix": "script"
+  },
+  "setActorAnimSpeed()": {
+    "body": "setActorAnimSpeed( ${1:speed} )$0",
+    "prefix": "setActorAnimSpeed()"
+  },
+  "setActorAnimVar()": {
+    "body": "setActorAnimVar( ${1:actor}, ${2:var} )$0",
+    "prefix": "setActorAnimVar()"
+  },
+  "setActorCostume()": {
+    "body": "setActorCostume( ${1:cost} )$0",
+    "prefix": "setActorCostume()"
+  },
+  "setActorDefaultFrames()": {
+    "body": "setActorDefaultFrames()$0",
+    "prefix": "setActorDefaultFrames()"
+  },
+  "setActorDirection()": {
+    "body": "setActorDirection( ${1:dir} )$0",
+    "prefix": "setActorDirection()"
+  },
+  "setActorElevation()": {
+    "body": "setActorElevation( ${1:ev} )$0",
+    "prefix": "setActorElevation()"
+  },
+  "setActorFollowBoxes()": {
+    "body": "setActorFollowBoxes()$0",
+    "prefix": "setActorFollowBoxes()"
+  },
+  "setActorIgnoreBoxes()": {
+    "body": "setActorIgnoreBoxes()$0",
+    "prefix": "setActorIgnoreBoxes()"
+  },
+  "setActorIgnoreTurnsOff()": {
+    "body": "setActorIgnoreTurnsOff()$0",
+    "prefix": "setActorIgnoreTurnsOff()"
+  },
+  "setActorIgnoreTurnsOn()": {
+    "body": "setActorIgnoreTurnsOn()$0",
+    "prefix": "setActorIgnoreTurnsOn()"
+  },
+  "setActorInitFrame()": {
+    "body": "setActorInitFrame( ${1:frame} )$0",
+    "prefix": "setActorInitFrame()"
+  },
+  "setActorLayer()": {
+    "body": "setActorLayer( ${1:layer} )$0",
+    "prefix": "setActorLayer()"
+  },
+  "setActorName()": {
+    "body": "setActorName( ${1:name} )$0",
+    "prefix": "setActorName()"
+  },
+  "setActorPalette()": {
+    "body": "setActorPalette( ${1:pal}, ${2:b} )$0",
+    "prefix": "setActorPalette()"
+  },
+  "setActorScale()": {
+    "body": "setActorScale( ${1:unk}, ${2:x} )$0",
+    "prefix": "setActorScale()"
+  },
+  "setActorShadowMode( )": {
+    "body": "setActorShadowMode( ${3:mode} )$0",
+    "prefix": "setActorShadowMode( )"
+  },
+  "setActorShadowMode()": {
+    "body": "setActorShadowMode( ${1:actor}, ${2:modeA}, ${3:modeB} )$0",
+    "prefix": "setActorShadowMode()"
+  },
+  "setActorSounds()": {
+    "body": "setActorSounds( ${1:[ ${2:sounds} ]} )$0",
+    "prefix": "setActorSounds()"
+  },
+  "setActorStandFrame()": {
+    "body": "setActorStandFrame( ${1:frame} )$0",
+    "prefix": "setActorStandFrame()"
+  },
+  "setActorStanding()": {
+    "body": "setActorStanding()$0",
+    "prefix": "setActorStanding()"
+  },
+  "setActorTalkColor()": {
+    "body": "setActorTalkColor( ${1:color} )$0",
+    "prefix": "setActorTalkColor()"
+  },
+  "setActorTalkFrame()": {
+    "body": "setActorTalkFrame( ${1:start}, ${2:stop} )$0",
+    "prefix": "setActorTalkFrame()"
+  },
+  "setActorTalkPos()": {
+    "body": "setActorTalkPos( ${1:x}, ${2:y} )$0",
+    "prefix": "setActorTalkPos()"
+  },
+  "setActorTalkScript()": {
+    "body": "setActorTalkScript( ${1:script} )$0",
+    "prefix": "setActorTalkScript()"
+  },
+  "setActorWalkFrame()": {
+    "body": "setActorWalkFrame( ${1:frame} )$0",
+    "prefix": "setActorWalkFrame()"
+  },
+  "setActorWalkScript()": {
+    "body": "setActorWalkScript( ${1:script} )$0",
+    "prefix": "setActorWalkScript()"
+  },
+  "setActorWalkSpeed()": {
+    "body": "setActorWalkSpeed( ${1:x}, ${2:y} )$0",
+    "prefix": "setActorWalkSpeed()"
+  },
+  "setActorWidth()": {
+    "body": "setActorWidth( ${1:width} )$0",
+    "prefix": "setActorWidth()"
+  },
+  "setActorZClip()": {
+    "body": "setActorZClip( ${1:clip} )$0",
+    "prefix": "setActorZClip()"
+  },
+  "setBoxFlags()": {
+    "body": "setBoxFlags( ${1:[ ${2:boxes} ]}, ${3:flags} )$0",
+    "prefix": "setBoxFlags()"
+  },
+  "setBoxSet()": {
+    "body": "setBoxSet( ${1:set} )$0",
+    "prefix": "setBoxSet()"
+  },
+  "setCameraAt()": {
+    "body": "setCameraAt( ${1:x} )$0",
+    "prefix": "setCameraAt()"
+  },
+  "setCharsetColors()": {
+    "body": "setCharsetColors( ${1:[ ${2:colors} ]} )$0",
+    "prefix": "setCharsetColors()"
+  },
+  "setCurrentActor()": {
+    "body": "setCurrentActor( ${1:actor} )$0",
+    "prefix": "setCurrentActor()"
+  },
+  "setCurrentVerb()": {
+    "body": "setCurrentVerb( ${1:verb} )$0",
+    "prefix": "setCurrentVerb()"
+  },
+  "setCursorHotspot()": {
+    "body": "setCursorHotspot( ${1:x}, ${2:y} )$0",
+    "prefix": "setCursorHotspot()"
+  },
+  "setCursorImage()": {
+    "body": "setCursorImage( ${1:obj}, ${2:room} )$0",
+    "prefix": "setCursorImage()"
+  },
+  "setCursorTransparency()": {
+    "body": "setCursorTransparency( ${1:color} )$0",
+    "prefix": "setCursorTransparency()"
+  },
+  "setObjectClass()": {
+    "body": "setObjectClass( ${1:obj}, ${2:[ ${3:classes} ]} )$0",
+    "prefix": "setObjectClass()"
+  },
+  "setObjectName()": {
+    "body": "setObjectName( ${1:obj}, ${2:name} )$0",
+    "prefix": "setObjectName()"
+  },
+  "setObjectOwner()": {
+    "body": "setObjectOwner( ${1:obj}, ${2:owner} )$0",
+    "prefix": "setObjectOwner()"
+  },
+  "setObjectState()": {
+    "body": "setObjectState( ${1:obj}, ${2:state} )$0",
+    "prefix": "setObjectState()"
+  },
+  "setPseudoRooms()": {
+    "body": "setPseudoRooms( ${1:room}, ${2:[ ${3:pseudos} ]} )$0",
+    "prefix": "setPseudoRooms()"
+  },
+  "setRoomColor()": {
+    "body": "setRoomColor( ${1:r} ,${2:g} ,${3:b} ,${4:color} )$0",
+    "prefix": "setRoomColor()"
+  },
+  "setRoomCycleDelay()": {
+    "body": "setRoomCycleDelay( ${1:cycle}, ${2:delay} )$0",
+    "prefix": "setRoomCycleDelay()"
+  },
+  "setRoomIntensity()": {
+    "body": "setRoomIntensity( ${1:scale}, ${2:start}, ${3:end} )$0",
+    "prefix": "setRoomIntensity()"
+  },
+  "setRoomPalette()": {
+    "body": "setRoomPalette( ${1:palette} )$0",
+    "prefix": "setRoomPalette()"
+  },
+  "setRoomRGBIntensity()": {
+    "body": "setRoomRGBIntensity( ${1:rScale}, ${2:gScale}, ${3:bScale}, ${4:start}, ${5:end} )$0",
+    "prefix": "setRoomRGBIntensity()"
+  },
+  "setRoomScroll()": {
+    "body": "setRoomScroll( ${1:minx}, ${2:maxx} )$0",
+    "prefix": "setRoomScroll()"
+  },
+  "setRoomShadow()": {
+    "body": "setRoomShadow( ${1:rScale}, ${2:gScale}, ${3:bScale}, ${4:start}, ${5:end} )$0",
+    "prefix": "setRoomShadow()"
+  },
+  "setScreen()": {
+    "body": "setScreen( ${1:top}, ${2:bottom} )$0",
+    "prefix": "setScreen()"
+  },
+  "setShadowPalette()": {
+    "body": "setShadowPalette( ${1.startColor}, ${2:endColor}, ${3:rScale}, ${4:gScale}, ${5:bScale} )$0",
+    "prefix": "setShadowPalette()"
+  },
+  "setShakeOff()": {
+    "body": "setShakeOff()$0",
+    "prefix": "setShakeOff()"
+  },
+  "setShakeOn()": {
+    "body": "setShakeOn()$0",
+    "prefix": "setShakeOn()"
+  },
+  "setVerbBackColor()": {
+    "body": "setVerbBackColor( ${1:color} )$0",
+    "prefix": "setVerbBackColor()"
+  },
+  "setVerbColor()": {
+    "body": "setVerbColor( ${1:color} )$0",
+    "prefix": "setVerbColor()"
+  },
+  "setVerbDimColor()": {
+    "body": "setVerbDimColor( ${1:color} )$0",
+    "prefix": "setVerbDimColor()"
+  },
+  "setVerbHiColor()": {
+    "body": "setVerbHiColor( ${1:color} )$0",
+    "prefix": "setVerbHiColor()"
+  },
+  "setVerbImage()": {
+    "body": "setVerbImage( ${1:obj} )$0",
+    "prefix": "setVerbImage()"
+  },
+  "setVerbKey()": {
+    "body": "setVerbKey( ${1:key} )$0",
+    "prefix": "setVerbKey()"
+  },
+  "setVerbName()": {
+    "body": "setVerbName( ${1:name} )$0",
+    "prefix": "setVerbName()"
+  },
+  "setVerbNameString()": {
+    "body": "setVerbNameString( ${1:array} )$0",
+    "prefix": "setVerbNameString()"
+  },
+  "setVerbObject()": {
+    "body": "setVerbObject( ${1:obj}, ${2:room} )$0",
+    "prefix": "setVerbObject()"
+  },
+  "setVerbOff()": {
+    "body": "setVerbOff()$0",
+    "prefix": "setVerbOff()"
+  },
+  "setVerbOn()": {
+    "body": "setVerbOn()$0",
+    "prefix": "setVerbOn()"
+  },
+  "setVerbXY()": {
+    "body": "setVerbXY( ${1:x}, ${2:y} )$0",
+    "prefix": "setVerbXY()"
+  },
+  "shiftShadowPalette()": {
+    "body": "shiftShadowPalette( ${1:startColor}, ${2:endColor}, ${3:rScale}, ${4:gScale}, ${5:bScale}, ${6:start}, ${7:end} )$0",
+    "prefix": "shiftShadowPalette()"
+  },
+  "shuffle()": {
+    "body": "shuffle( ${1:array}, ${2:min}, ${3:max} )$0",
+    "prefix": "shuffle()"
+  },
+  "shutdown()": {
+    "body": "shutdown()$0",
+    "prefix": "shutdown()"
+  },
+  "softCursorOff()": {
+    "body": "softCursorOff()$0",
+    "prefix": "softCursorOff()"
+  },
+  "softCursorOn()": {
+    "body": "softCursorOn()$0",
+    "prefix": "softCursorOn()"
+  },
+  "softUserPutOff()": {
+    "body": "softUserPutOff()$0",
+    "prefix": "softUserPutOff()"
+  },
+  "softUserPutOn()": {
+    "body": "softUserPutOn()$0",
+    "prefix": "softUserPutOn()"
+  },
+  "soundKludge()": {
+    "body": "soundKludge( ${1:[ ${2:cmds} ]} )$0",
+    "prefix": "soundKludge()"
+  },
+  "stampObject()": {
+    "body": "stampObject( ${1:obj}, ${2:x}, ${3:y}, ${4:state} )$0",
+    "prefix": "stampObject()"
+  },
+  "startMusic()": {
+    "body": "startMusic( ${1:sound} )$0",
+    "prefix": "startMusic()"
+  },
+  "startObject()": {
+    "body": "startObject( ${1:flags}, ${2:obj}, ${3:verb}, ${4:[ ${5:args} ]} )$0",
+    "prefix": "startObject()"
+  },
+  "startObject2()": {
+    "body": "startObject2( ${1:obj}, ${2:verb}, ${3:[ ${4:args} ]} )$0",
+    "prefix": "startObject2()"
+  },
+  "startRoom()": {
+    "body": "startRoom( ${1:room} )$0",
+    "prefix": "startRoom()"
+  },
+  "startRoomWithEgo()": {
+    "body": "startRoomWithEgo( ${1:obj}, ${2:room}, ${3:x}, ${4:y} )$0",
+    "prefix": "startRoomWithEgo()"
+  },
+  "startScript()": {
+    "body": "startScript( ${1:flags}, ${2:script}, ${3:[ ${4:args} ]} )$0",
+    "prefix": "startScript()"
+  },
+  "startScript0()": {
+    "body": "startScript0( ${1:script}, ${2:[ ${3:args} ]} )$0",
+    "prefix": "startScript0()"
+  },
+  "startScript2()": {
+    "body": "startScript2( ${1:script}, ${2:[ ${3:args} ]} )$0",
+    "prefix": "startScript2()"
+  },
+  "startSound()": {
+    "body": "startSound( ${1:sound} )$0",
+    "prefix": "startSound()"
+  },
+  "stopMusic()": {
+    "body": "stopMusic()$0",
+    "prefix": "stopMusic()"
+  },
+  "stopObjectScript()": {
+    "body": "stopObjectScript( ${1:obj} )$0",
+    "prefix": "stopObjectScript()"
+  },
+  "stopScript()": {
+    "body": "stopScript( ${1:script} )$0",
+    "prefix": "stopScript()"
+  },
+  "stopSentence()": {
+    "body": "stopSentence()$0",
+    "prefix": "stopSentence()"
+  },
+  "stopSound()": {
+    "body": "stopSound( ${1:sound} )$0",
+    "prefix": "stopSound()"
+  },
+  "stopTalking()": {
+    "body": "stopTalking()$0",
+    "prefix": "stopTalking()"
+  },
+  "swapColors()": {
+    "body": "swapColors( ${1:colorA}, ${2:colorB} )$0",
+    "prefix": "swapColors()"
+  },
+  "unlockCostume()": {
+    "body": "unlockCostume( ${1:cost} )$0",
+    "prefix": "unlockCostume()"
+  },
+  "unlockRoom()": {
+    "body": "unlockRoom( ${1:room} )$0",
+    "prefix": "unlockRoom()"
+  },
+  "unlockScript()": {
+    "body": "unlockScript( ${1:script} )$0",
+    "prefix": "unlockScript()"
+  },
+  "unlockSound()": {
+    "body": "unlockSound( ${1:sound} )$0",
+    "prefix": "unlockSound()"
+  },
+  "userPutOff()": {
+    "body": "userPutOff()$0",
+    "prefix": "userPutOff()"
+  },
+  "userPutOn()": {
+    "body": "userPutOn()$0",
+    "prefix": "userPutOn()"
+  },
+  "verbCenter()": {
+    "body": "verbCenter()$0",
+    "prefix": "verbCenter()"
+  },
+  "verbDim()": {
+    "body": "verbDim()$0",
+    "prefix": "verbDim()"
+  },
+  "waitForActor()": {
+    "body": "waitForActor( ${1:actor} )$0",
+    "prefix": "waitForActor()"
+  },
+  "waitForAnimation()": {
+    "body": "waitForAnimation( ${1:actor} )$0",
+    "prefix": "waitForAnimation()"
+  },
+  "waitForCamera()": {
+    "body": "waitForCamera()$0",
+    "prefix": "waitForCamera()"
+  },
+  "waitForMessage()": {
+    "body": "waitForMessage()$0",
+    "prefix": "waitForMessage()"
+  },
+  "waitForSentence()": {
+    "body": "waitForSentence()$0",
+    "prefix": "waitForSentence()"
+  },
+  "waitForTurn()": {
+    "body": "waitForTurn( ${1:actor} )$0",
+    "prefix": "waitForTurn()"
+  },
+  "walkActorTo()": {
+    "body": "walkActorTo( ${1:actor}, ${2:x}, ${3:y} )$0",
+    "prefix": "walkActorTo()"
+  },
+  "walkActorToObj()": {
+    "body": "walkActorToObj( ${1:actor}, ${2:object}, ${3:distance} )$0",
+    "prefix": "walkActorToObj()"
+  }
+}
