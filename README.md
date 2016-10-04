@@ -5,7 +5,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/vscode-scummc.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-scummc)
 [![David](https://img.shields.io/david/dev/idleberg/vscode-scummc.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-scummc?type=dev)
 
-Syntax highlighting and snippets for the [ScummC](https://github.com/AlbanBedel/scummc).
+Syntax highlighting and snippets for [ScummC](https://github.com/AlbanBedel/scummc).
 
 This package is also available for [Atom](https://github.com/idleberg/atom-language-scummc) and [Sublime Text](https://github.com/idleberg/sublime-scummc).
 

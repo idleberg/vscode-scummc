@@ -1,7 +1,7 @@
 {
     "name": "scummc",
     "displayName": "ScummC",
-    "description": "Syntax highlighting and snippets for the ScummC",
+    "description": "Syntax highlighting and snippets for ScummC",
     "version": "0.1.1",
     "publisher": "idleberg",
     "license": "MIT",
