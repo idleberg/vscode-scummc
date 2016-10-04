@@ -10,7 +10,11 @@
         "url": "http://github.com/idleberg"
     },
     "keywords": [
-        "textile"
+        "scumm c",
+        "scumm vm",
+        "scumm",
+        "scummc",
+        "scummvm"
     ],
     "repository": {
         "type": "git",
