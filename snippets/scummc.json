@@ -1444,7 +1444,7 @@
     "prefix": "setScreen()"
   },
   "setShadowPalette()": {
-    "body": "setShadowPalette( ${1.startColor}, ${2:endColor}, ${3:rScale}, ${4:gScale}, ${5:bScale} )$0",
+    "body": "setShadowPalette( ${1:startColor}, ${2:endColor}, ${3:rScale}, ${4:gScale}, ${5:bScale} )$0",
     "prefix": "setShadowPalette()"
   },
   "setShakeOff()": {
