@@ -13,10 +13,6 @@ const svg2png = require('gulp-svg2png');
 const xmlVal = require('gulp-xml-validator');
 
 // Supported files
-const tsFiles = [
-  'src/*.ts',
-];
-
 const jsonFiles = [
   'package.json',
   'snippets/*.json',
