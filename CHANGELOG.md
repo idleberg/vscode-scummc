@@ -1,3 +1,8 @@
+# v0.1.5 [#](https://github.com/idleberg/vscode-scummc/releases/tag/0.1.5)
+
+- use PNG logo (as required by upcoming versions of Code)
+- update `devDependencies`
+
 # v0.1.4 [#](https://github.com/idleberg/vscode-scummc/releases/tag/0.1.4)
 
 - fix typo in `setShadowPalette()` snippet
