@@ -2,7 +2,7 @@
     "name": "scummc",
     "displayName": "ScummC",
     "description": "Syntax highlighting and snippets for ScummC",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
