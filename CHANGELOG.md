@@ -1,3 +1,8 @@
+# v0.1.6 [#](https://github.com/idleberg/vscode-scummc/releases/tag/0.1.6)
+
+- update development toolchain
+- update Travis CI configuration
+
 # v0.1.5 [#](https://github.com/idleberg/vscode-scummc/releases/tag/0.1.5)
 
 - use PNG logo (as required by upcoming versions of Code)
