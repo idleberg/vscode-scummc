@@ -1,3 +1,8 @@
+# v0.1.7 [#](https://github.com/idleberg/vscode-scummc/releases/tag/0.1.7)
+
+- replace linter
+- update dependencies
+
 # v0.1.6 [#](https://github.com/idleberg/vscode-scummc/releases/tag/0.1.6)
 
 - update development toolchain
