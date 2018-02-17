@@ -18,7 +18,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/idleberg/vscode-scummc.git"
+        "url": "https://github.com/idleberg/vscode-scummc.git"
     },
     "homepage": "https://github.com/idleberg/vscode-scummc",
     "bugs": {
