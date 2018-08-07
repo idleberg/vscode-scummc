@@ -2,7 +2,7 @@
 
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-scummc)](https://github.com/idleberg/vscode-scummc/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.scummc)](https://marketplace.visualstudio.com/items?itemName=idleberg.scummc)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.scummc.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.scummc)
 [![Travis](https://flat.badgen.net/travis/idleberg/vscode-scummc)](https://travis-ci.org/idleberg/vscode-scummc)
 [![David](https://flat.badgen.net/david/dev/idleberg/vscode-scummc)](https://david-dm.org/idleberg/vscode-scummc?type=dev)
 
